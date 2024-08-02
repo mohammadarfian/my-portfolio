@@ -4,7 +4,6 @@ type Props = {
   experience: {
     year: string;
     title: string;
-    company: string;
     description: string;
   };
 };
@@ -23,6 +22,9 @@ export default function ExperienceCard({ experience }: Props) {
         </p>
         <h2 className="uppercase text-xl md:text-2xl font-bold mt-4">
           {experience.title}
+          {/* <span className="text-lg md:text-xl font-normal">
+            {experience.company}
+          </span> */}
         </h2>
         <p className="mt-4 text-sm md:text-base">{experience.description}</p>
       </div>
