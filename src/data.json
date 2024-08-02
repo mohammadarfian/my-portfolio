@@ -1,0 +1,84 @@
+{
+    "name": "Mohammad Arfian",
+    "bio": "I am an active 6th semester student of the Software Engineering Technology Study Program at Banyuwangi State Polytechnic. I have developed an understanding of the basic principles of software engineering and have basic skills in software development.",
+    "first_name": "Mohammad",
+    "last_name": "Arfian",
+    "age": 22,
+    "nationality": "Indonesia",
+    "location": "Banyuwangi, East Java",
+    "phone": "+6285807144234",
+    "email": "mharfian52@gmail.com",
+    "github_handle": "mohammadarfian",
+    "hobby": ["Football", "Futsal"],
+    "skills": [
+      {
+        "skill": "UI/UX Design",
+        "percentage": 85
+      },
+      {
+        "skill": "Design Graphic",
+        "percentage": 90
+      },
+      {
+        "skill": "Programming",
+        "percentage": 80
+      },
+      {
+        "skill": "Team Work",
+        "percentage": 100
+      }
+    ],
+    "experiences": [
+      {
+        "year": "2021-Present",
+        "title": "Politeknik Negeri Banyuwangi",
+        "description": "Merupakan Mahasiswa Politeknik Negeri Banyuwangi Jurusan D-4 Teknologi Rekayasa Perangkat Lunak."
+      },
+      {
+        "year": "Februari - Juni 2024",
+        "title": "Kampus Mengajar 7",
+        "description": "Dalam Program MBKM Kampus Mengajar ini, terdapat project konversi nilai kepada jurusan dengan membuat sebuah Website Sistem Buku Tamu Sekolah untuk pengelolaan data tamu yang datang ke sekolah dan memudahkan pencarian data."
+      },
+      {
+        "year": "Agustus - Desember 2023",
+        "title": "Wirausaha Merdeka Pens",
+        "description": "Mengikuti program pelatihan Wirausaha Merdeka dari Kemendikbud terdapat project konversi nilai kepada jurusan dengan membuat Website Company Profil Potretin.id untuk penyedia jasa pemotretan foto produk."
+      },
+      {
+        "year": "2022",
+        "title": "Keikutsertaan Pekan Olahraga Provinsi (PORPROV) Jawa Timur Cabang Futsal",
+        "description": "Mengikuti Pekan Olahraga Provinsi (Porprov) Jawa Timur dalam cabang olahraga futsal mewakili Kabupaten Banyuwangi."
+      }
+    ],
+    "projects": [
+      {
+        "imageUrl": "/images/1.png",
+        "title": "Sistem Informasi Gym",
+        "url": "https://www.example.com/chatbot"
+      },
+      {
+        "imageUrl": "/images/2.png",
+        "title": "Potretin.id",
+        "url": "https://www.example.com/image-generator"
+      },
+      {
+        "imageUrl": "/images/3.png",
+        "title": "Aplikasi Buku Tamu Sekolah",
+        "url": "https://www.example.com/weather-app"
+      }
+    ],
+    "social_links": [
+      {
+        "icon": "/images/waa.png",
+        "url": "https://wa.me/+6285807144234"
+      },
+      {
+        "icon": "/images/ig2.png",
+        "url": "https://www.instagram.com/kindnesstf"
+      },
+      {
+        "icon": "/images/mail2.png",
+        "url": "https://mail.google.com/mharfian"
+      }
+    ]
+  }
