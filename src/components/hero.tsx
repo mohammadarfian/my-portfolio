@@ -9,7 +9,7 @@ export default function Hero() {
   return (
     <div className="h-screen flex flex-col xl:flex-row items-center justify-center gap-8 overflow-hidden">
       <Image
-        src="/images/stussy.jpg"
+        src="/images/propil.jpeg"
         alt="Portrait"
         width={1024}
         height={1024}
